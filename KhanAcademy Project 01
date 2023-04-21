@@ -1,5 +1,0 @@
-CREATE TABLE books (id INTEGER PRIMARY KEY, name TEXT, rating INTEGER);
-
-INSERT INTO books VALUES (1, "I'm Thinking of Ending Things", 4/5);
-INSERT INTO books VALUES (2, "The Song of Achilles", 4/5);
-INSERT INTO books VALUES (3, "The Laws of the Skies", 3/5)
